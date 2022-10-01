@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #Question Link: https://www.practicepython.org/exercise/2014/05/15/14-list-remove-duplicates.html
 
 '''

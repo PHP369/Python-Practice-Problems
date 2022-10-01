@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 #Question Link: https://www.practicepython.org/exercise/2017/01/24/33-birthday-dictionaries.html
 
 '''

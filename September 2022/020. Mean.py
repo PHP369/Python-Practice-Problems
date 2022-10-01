@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 #Question Link: https://thecleverprogrammer.com/2022/03/31/mean-median-and-mode-using-python/
 
 '''

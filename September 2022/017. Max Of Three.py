@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 #Question Link: https://www.practicepython.org/exercise/2016/03/27/28-max-of-three.html
 
 '''

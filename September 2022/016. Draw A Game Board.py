@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 #Question Link: https://www.practicepython.org/exercise/2014/12/27/24-draw-a-game-board.html
 
 '''

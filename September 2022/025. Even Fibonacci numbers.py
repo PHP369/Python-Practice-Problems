@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 #Question Link: https://projecteuler.net/problem=2
 
 '''

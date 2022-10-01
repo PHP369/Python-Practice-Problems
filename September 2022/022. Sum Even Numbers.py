@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #Question Link: https://pythonbasics.org/for-loops/
 
 '''
