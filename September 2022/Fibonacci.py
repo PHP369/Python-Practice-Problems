@@ -19,10 +19,3 @@ for x in range(num-2):
     num2 = num3
 
 print(Fibonnaci)
-
-
-# In[ ]:
-
-
-
-
