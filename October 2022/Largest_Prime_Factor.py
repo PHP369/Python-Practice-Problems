@@ -6,6 +6,7 @@ What is the largest prime factor of the number 600851475143 ?
 '''
 
 num = 600851475143
+
 prime_number = 0
 
 for x in range(1,num):
@@ -17,4 +18,3 @@ for x in range(1,num):
             prime_number = x
 
 print(prime_number)
-
