@@ -6,7 +6,7 @@ Question:
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 '''
 
-def isDivisibleBy2(number):
+def isNotDivisible(number):
     for x in range(2, 21):
         if number%x != 0:
             return False
@@ -15,15 +15,8 @@ def isDivisibleBy2(number):
 number = 2520
 
 while True:
-    if isDivisibleBy2(number):
+    if isNotDivisible(number):
         break
     number += 20
 
 print("The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 is", number)
-
-
-# In[ ]:
-
-
-
-
